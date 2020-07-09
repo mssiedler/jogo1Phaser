@@ -1,1 +1,1 @@
-# jogo1Phaser
+# Jogo desenvolvido para demonstrar os comandos do Phaser.
